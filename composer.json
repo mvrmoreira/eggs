@@ -1,0 +1,12 @@
+{
+    "name": "acme/eggs",
+    "authors": [
+        {
+            "name": "Matheus Moreira",
+            "email": "mvrmoreira@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    }
+}
